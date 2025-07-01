@@ -9,7 +9,7 @@ Focus on efficiency (time/space complexity) and clean code.
 
 | #   | Title | Solution | Difficulty |
 |-----|-------|----------|------------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/cpp/two_sum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/twoSum.cpp)|Easy|
 
 ---
 
