@@ -10,7 +10,7 @@ Focus on efficiency (time/space complexity) and clean code.
 | #   | Title | Solution | Difficulty |
 |-----|-------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/twoSum.cpp)|Easy|
-|1|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/cpp/removeElement.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/cpp/removeElement.cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./algorithms/cpp/mergeSortedArray.cpp)|Easy|
 
 ---
