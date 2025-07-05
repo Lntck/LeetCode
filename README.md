@@ -15,6 +15,7 @@ Focus on efficiency (time/space complexity) and clean code.
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./algorithms/python/removeDuplicatesfromSortedArrayII.py)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./algorithms/cpp/mergeSortedArray.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./algorithms/python/majorityElement.py)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./algorithms/python/rotateArray.py)|Medium|
 
 ---
 
