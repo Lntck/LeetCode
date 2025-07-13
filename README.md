@@ -1,7 +1,11 @@
 # LeetCode Solutions
 
-📌 **My accepted solutions to LeetCode problems** in multiple languages.  
-Focus on efficiency (time/space complexity) and clean code.
+📌 **My accepted solutions to LeetCode problems across multiple programming languages.**
+I focus on writing efficient algorithms with optimal time and space complexity, alongside clean and readable code.
+
+🚀 **The Solutions Table below is generated automatically.**
+A GitHub Action script scans the solution files in this repository, fetches problem details from the official LeetCode API, and updates this README every time code changes are pushed.
+This way, the table always reflects the latest accepted solutions — no manual updates needed!
 
 ---
 
@@ -27,7 +31,7 @@ Focus on efficiency (time/space complexity) and clean code.
 ## Structure
 
 ```
-alhorithms/
+algorithms/
 ├── cpp/
 │   └── ...
 ├── python/
@@ -40,9 +44,25 @@ alhorithms/
 
 ## Contribution
 
-Found a bug? Open an **Issue** or submit a **PR**
+Found a bug or have suggestions? Feel free to open an **Issue** or submit a **Pull Request**!
 
 ---
 
-📧 **Contact**: [shafeev.dev@gmail.com]  
-🔗 **LeetCode Profile**: [https://leetcode.com/u/Lntck/]
+## Contact
+
+📧 Email: [shafeev.dev@gmail.com](mailto:shafeev.dev@gmail.com)
+🔗 LeetCode Profile: [https://leetcode.com/u/Lntck/](https://leetcode.com/u/Lntck/)
+
+---
+
+### Note about Automation
+
+This repository features an **automated workflow** that:
+
+* Parses solution files in the `algorithms/` folder,
+* Retrieves problem details (title, difficulty, problem ID) from the official LeetCode API,
+* Automatically updates this README's Solutions Table on every push.
+
+This means the table you see here **always reflects the latest solutions** without manual edits! 🚀
+
+---
