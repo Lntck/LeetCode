@@ -10,6 +10,7 @@ Focus on efficiency (time/space complexity) and clean code.
 | #   | Title | Solution | Difficulty |
 |-----|-------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/twoSum.cpp)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./algorithms/cpp/longestCommonPrefix.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/python/removeDuplicatesfromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/cpp/removeElement.cpp)|Easy|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./algorithms/python/jumpGameII.py)|Medium|
@@ -41,9 +42,7 @@ alhorithms/
 
 ## Contribution
 
-Found a bug? Open an **Issue** or submit a **PR** with:
-- Consistent naming (`snake_case` for files)
-- Time/space complexity in code comments
+Found a bug? Open an **Issue** or submit a **PR**
 
 ---
 
