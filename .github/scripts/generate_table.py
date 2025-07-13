@@ -68,7 +68,7 @@ def get_solutions():
                 question_id = question.get("question_id")
                 title = question.get("title")
                 difficulty = question.get("difficulty")
-                solution_link = f"[{lang_name}](./alghorithms/{lang_folder}/{file})"
+                solution_link = f"[{lang_name}](./algorithms/{lang_folder}/{file})"
                 solutions.append((int(question_id), title, slug, solution_link, difficulty))
                 logging.info(f"Found: #{question_id} {title} [{difficulty}]")
     return sorted(solutions, key=lambda x: x[0])
