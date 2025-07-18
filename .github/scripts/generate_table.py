@@ -46,14 +46,18 @@ def extract_slug(filename):
     # "twoSum.cpp" -> "two-sum"
     # "jumpGameII.py" -> "jump-game-ii"
     # "insertDeleteGetrandomO1.cpp" -> "insert-delete-getrandom-o1"
+    # "reverseWordsInAString.py" -> "reverse-words-in-a-string"
     filename = filename.rsplit('.', 1)[0]
+
     parts = re.findall(
-        r'[A-Z]{2,}(?=[A-Z][a-z]|[0-9]|$)'
-        r'|[A-Z]?[a-z]+'
-        r'|[A-Z][0-9]+'
-        r'|[0-9]+',
+        r'[A-Z][0-9]+|'
+        r'[A-Z]+(?=[A-Z][a-z])|'
+        r'[A-Z]?[a-z]+|'
+        r'[A-Z]+|'
+        r'[0-9]+',
         filename
     )
+
     slug = '-'.join(part.lower() for part in parts)
     return slug
 
