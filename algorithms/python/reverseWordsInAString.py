@@ -1,5 +1,5 @@
 class Solution:
-    # Foes not use any built-in functions such as split(), join(), reversed(), or slicing (e.g., [::-1]).
+    # Does not use any built-in functions such as split(), join(), reversed(), or slicing (e.g., [::-1]).
     # It processes the string manually and uses only constant extra space (excluding the output string).
     # def reverseWords(self, s: str) -> str:
     #     result = ""
