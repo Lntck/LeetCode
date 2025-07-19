@@ -17,6 +17,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./algorithms/cpp/longestCommonPrefix.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/python/removeDuplicatesFromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/cpp/removeElement.cpp)|Easy|
+|28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](./algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|Easy|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./algorithms/python/jumpGameII.py)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./algorithms/python/jumpGame.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./algorithms/python/lengthOfLastWord.py)|Easy|
