@@ -25,6 +25,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./algorithms/cpp/mergeSortedArray.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/python/bestTimeToBuyAndSellStock.py)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./algorithms/python/bestTimeToBuyAndSellStockII.py)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./algorithms/python/validPalindrome.py)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](./algorithms/python/gasStation.py)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](./algorithms/python/candy.py)|Hard|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./algorithms/python/reverseWordsInAString.py)|Medium|
