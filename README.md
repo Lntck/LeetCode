@@ -14,6 +14,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/twoSum.cpp)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./algorithms/python/containerWithMostWater.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./algorithms/python/romanToInteger.py)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./algorithms/cpp/longestCommonPrefix.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/python/removeDuplicatesFromSortedArray.py)|Easy|
