@@ -39,6 +39,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./algorithms/cpp/h-Index.cpp)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](./algorithms/python/wordPattern.py)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./algorithms/cpp/insertDeleteGetrandomO1.cpp)|Medium|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./algorithms/python/ransomNote.py)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](./algorithms/python/IsSubsequence.py)|Easy|
 
 ## Structure
