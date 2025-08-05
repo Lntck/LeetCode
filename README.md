@@ -34,6 +34,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./algorithms/python/reverseWordsInAString.py)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./algorithms/python/majorityElement.py)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./algorithms/python/rotateArray.py)|Medium|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./algorithms/python/isomorphicStrings.py)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./algorithms/java/productOfArrayExceptSelf.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](./algorithms/python/validAnagram.py)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./algorithms/cpp/h-Index.cpp)|Medium|
