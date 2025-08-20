@@ -38,6 +38,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./algorithms/java/productOfArrayExceptSelf.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](./algorithms/python/validAnagram.py)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./algorithms/cpp/h-Index.cpp)|Medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Python](./algorithms/python/gameOfLife.py)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](./algorithms/python/wordPattern.py)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./algorithms/cpp/insertDeleteGetrandomO1.cpp)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./algorithms/python/ransomNote.py)|Easy|
