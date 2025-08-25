@@ -23,6 +23,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](./algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](./algorithms/python/trappingRainWater.py)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](./algorithms/python/jumpGameII.py)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./algorithms/python/groupAnagrams.py)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./algorithms/python/jumpGame.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./algorithms/python/lengthOfLastWord.py)|Easy|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./algorithms/python/removeDuplicatesFromSortedArrayII.py)|Medium|
