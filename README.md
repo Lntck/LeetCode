@@ -27,6 +27,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./algorithms/python/groupAnagrams.py)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./algorithms/python/jumpGame.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./algorithms/python/lengthOfLastWord.py)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](./algorithms/python/textJustification.py)|Hard|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./algorithms/python/removeDuplicatesFromSortedArrayII.py)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./algorithms/cpp/mergeSortedArray.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/python/bestTimeToBuyAndSellStock.py)|Easy|
