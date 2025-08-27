@@ -19,6 +19,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](./algorithms/python/integerToRoman.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./algorithms/python/romanToInteger.py)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./algorithms/cpp/longestCommonPrefix.cpp)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](./algorithms/python/3sum.py)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/python/removeDuplicatesFromSortedArray.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./algorithms/cpp/removeElement.cpp)|Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](./algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|Easy|
