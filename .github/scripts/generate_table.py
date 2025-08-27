@@ -52,8 +52,8 @@ def extract_slug(filename):
     parts = re.findall(
         r'[A-Z][0-9]+|'
         r'[A-Z]+(?=[A-Z][a-z])|'
-        r'[A-Z]?[a-z]+|'
-        r'[A-Z]+|'
+        r'[0-9]*[A-Z]?[a-z]+|'
+        r'[A-Z]+|' 
         r'[0-9]+',
         filename
     )
