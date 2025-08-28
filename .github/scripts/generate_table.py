@@ -18,9 +18,9 @@ LANG_DIRS = {
 LANG_EXTENSIONS = (".cpp", ".py", ".java")
 
 INT_TO_DIFFICULTY = {
-    1: "Easy",
-    2: "Medium",
-    3: "Hard"
+    1: "🟢 Easy",
+    2: "🟡 Medium",
+    3: "🔴 Hard",
 }
 
 
