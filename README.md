@@ -15,6 +15,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |---|-------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](algorithms/cpp/twoSum.cpp)|🟢 Easy|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](algorithms/python/zigzagConversion.py)|🟡 Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](algorithms/python/palindromeNumber.py)|🟢 Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](algorithms/python/containerWithMostWater.py)|🟡 Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](algorithms/python/integerToRoman.py)|🟡 Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](algorithms/python/romanToInteger.py)|🟢 Easy|
