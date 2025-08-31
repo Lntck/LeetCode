@@ -15,6 +15,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |---|-------|----------|------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](algorithms/cpp/twoSum.cpp)|🟢 Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](algorithms/python/addTwoNumbers.py)|🟡 Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](algorithms/python/longestSubstringWithoutRepeatingCharacters.py)|🟡 Medium|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](algorithms/python/zigzagConversion.py)|🟡 Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](algorithms/python/palindromeNumber.py)|🟢 Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](algorithms/python/containerWithMostWater.py)|🟡 Medium|
