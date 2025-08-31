@@ -45,6 +45,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](algorithms/python/rotateArray.py)|🟡 Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](algorithms/python/happyNumber.py)|🟢 Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](algorithms/python/isomorphicStrings.py)|🟢 Easy|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](algorithms/python/summaryRanges.py)|🟢 Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](algorithms/java/productOfArrayExceptSelf.java)|🟡 Medium|
