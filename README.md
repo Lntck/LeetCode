@@ -26,6 +26,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](algorithms/python/removeDuplicatesFromSortedArray.py)|🟢 Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](algorithms/cpp/removeElement.cpp)|🟢 Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|🟢 Easy|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](algorithms/python/substringWithConcatenationOfAllWords.py)|🔴 Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](algorithms/python/trappingRainWater.py)|🔴 Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](algorithms/python/jumpGameII.py)|🟡 Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](algorithms/python/groupAnagrams.py)|🟡 Medium|
