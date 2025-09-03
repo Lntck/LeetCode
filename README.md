@@ -45,6 +45,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](algorithms/python/twoSumIIInputArrayIsSorted.py)|🟡 Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](algorithms/python/majorityElement.py)|🟢 Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](algorithms/python/rotateArray.py)|🟡 Medium|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](algorithms/python/reverseBits.py)|🟢 Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](algorithms/python/happyNumber.py)|🟢 Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](algorithms/python/isomorphicStrings.py)|🟢 Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
