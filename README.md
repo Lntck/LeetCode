@@ -31,6 +31,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](algorithms/python/trappingRainWater.py)|🔴 Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](algorithms/python/jumpGameII.py)|🟡 Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](algorithms/python/groupAnagrams.py)|🟡 Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](algorithms/python/spiralMatrix.py)|🟡 Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](algorithms/python/jumpGame.py)|🟡 Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](algorithms/python/lengthOfLastWord.py)|🟢 Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](algorithms/python/textJustification.py)|🔴 Hard|
