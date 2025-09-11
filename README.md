@@ -35,6 +35,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](algorithms/python/spiralMatrix.py)|🟡 Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](algorithms/python/jumpGame.py)|🟡 Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](algorithms/python/mergeIntervals.py)|🟡 Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](algorithms/python/insertInterval.py)|🟡 Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](algorithms/python/lengthOfLastWord.py)|🟢 Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](algorithms/python/textJustification.py)|🔴 Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
