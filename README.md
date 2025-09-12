@@ -27,6 +27,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](algorithms/cpp/removeElement.cpp)|🟢 Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|🟢 Easy|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](algorithms/python/substringWithConcatenationOfAllWords.py)|🔴 Hard|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](algorithms/python/searchInsertPosition.py)|🟢 Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](algorithms/python/validSudoku.py)|🟡 Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](algorithms/python/trappingRainWater.py)|🔴 Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](algorithms/python/jumpGameII.py)|🟡 Medium|
