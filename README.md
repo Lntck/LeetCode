@@ -40,6 +40,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](algorithms/python/insertInterval.py)|🟡 Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](algorithms/python/lengthOfLastWord.py)|🟢 Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](algorithms/python/textJustification.py)|🔴 Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](algorithms/python/simplifyPath.py)|🟡 Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](algorithms/python/minimumWindowSubstring.py)|🔴 Hard|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedArrayII.py)|🟡 Medium|
