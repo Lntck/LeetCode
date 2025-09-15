@@ -52,6 +52,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](algorithms/python/gasStation.py)|🟡 Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](algorithms/python/candy.py)|🔴 Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](algorithms/python/singleNumber.py)|🟢 Easy|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](algorithms/python/evaluateReversePolishNotation.py)|🟡 Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](algorithms/python/reverseWordsInAString.py)|🟡 Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](algorithms/python/minStack.py)|🟡 Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](algorithms/python/twoSumIIInputArrayIsSorted.py)|🟡 Medium|
