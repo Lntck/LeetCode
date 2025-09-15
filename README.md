@@ -53,6 +53,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](algorithms/python/candy.py)|🔴 Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](algorithms/python/singleNumber.py)|🟢 Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](algorithms/python/reverseWordsInAString.py)|🟡 Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](algorithms/python/minStack.py)|🟡 Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](algorithms/python/twoSumIIInputArrayIsSorted.py)|🟡 Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](algorithms/python/majorityElement.py)|🟢 Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](algorithms/python/rotateArray.py)|🟡 Medium|
