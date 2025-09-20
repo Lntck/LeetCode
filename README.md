@@ -53,6 +53,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](algorithms/python/gasStation.py)|🟡 Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](algorithms/python/candy.py)|🔴 Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](algorithms/python/singleNumber.py)|🟢 Easy|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](algorithms/python/copyListWithRandomPointer.py)|🟡 Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](algorithms/python/linkedListCycle.py)|🟢 Easy|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](algorithms/python/evaluateReversePolishNotation.py)|🟡 Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](algorithms/python/reverseWordsInAString.py)|🟡 Medium|
