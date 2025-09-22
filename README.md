@@ -46,6 +46,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](algorithms/python/minimumWindowSubstring.py)|🔴 Hard|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedArrayII.py)|🟡 Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](algorithms/cpp/mergeSortedArray.cpp)|🟢 Easy|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](algorithms/python/reverseLinkedListII.py)|🟡 Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](algorithms/python/bestTimeToBuyAndSellStock.py)|🟢 Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](algorithms/python/validPalindrome.py)|🟢 Easy|
