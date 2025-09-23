@@ -25,6 +25,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](algorithms/python/3sum.py)|🟡 Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](algorithms/python/validParentheses.py)|🟢 Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](algorithms/python/mergeTwoSortedLists.py)|🟢 Easy|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](algorithms/python/reverseNodesInKGroup.py)|🔴 Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](algorithms/python/removeDuplicatesFromSortedArray.py)|🟢 Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](algorithms/cpp/removeElement.cpp)|🟢 Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Python](algorithms/python/findTheIndexOfTheFirstOccurrenceInAString.py)|🟢 Easy|
