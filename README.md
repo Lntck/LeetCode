@@ -23,6 +23,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](algorithms/python/romanToInteger.py)|🟢 Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](algorithms/cpp/longestCommonPrefix.cpp)|🟢 Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Python](algorithms/python/3sum.py)|🟡 Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](algorithms/python/removeNthNodeFromEndOfList.py)|🟡 Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](algorithms/python/validParentheses.py)|🟢 Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](algorithms/python/mergeTwoSortedLists.py)|🟢 Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](algorithms/python/reverseNodesInKGroup.py)|🔴 Hard|
