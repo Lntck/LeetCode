@@ -42,6 +42,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](algorithms/python/mergeIntervals.py)|🟡 Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](algorithms/python/insertInterval.py)|🟡 Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](algorithms/python/lengthOfLastWord.py)|🟢 Easy|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](algorithms/python/rotateList.py)|🟡 Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](algorithms/python/textJustification.py)|🔴 Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](algorithms/python/simplifyPath.py)|🟡 Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
