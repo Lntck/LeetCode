@@ -53,6 +53,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](algorithms/cpp/mergeSortedArray.cpp)|🟢 Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](algorithms/python/reverseLinkedListII.py)|🟡 Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](algorithms/python/sameTree.py)|🟢 Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](algorithms/python/symmetricTree.py)|🟢 Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](algorithms/python/maximumDepthOfBinaryTree.py)|🟢 Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](algorithms/python/bestTimeToBuyAndSellStock.py)|🟢 Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
