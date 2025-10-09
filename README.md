@@ -58,6 +58,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromPreorderAndInorderTraversal.py)|🟡 Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromInorderAndPostorderTraversal.py)|🟡 Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](algorithms/python/pathSum.py)|🟢 Easy|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](algorithms/python/populatingNextRightPointersInEachNodeII.py)|🟡 Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](algorithms/python/bestTimeToBuyAndSellStock.py)|🟢 Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](algorithms/python/validPalindrome.py)|🟢 Easy|
