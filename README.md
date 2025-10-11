@@ -64,6 +64,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](algorithms/python/validPalindrome.py)|🟢 Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](algorithms/python/longestConsecutiveSequence.py)|🟡 Medium|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](algorithms/python/sumRootToLeafNumbers.py)|🟡 Medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](algorithms/python/gasStation.py)|🟡 Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](algorithms/python/candy.py)|🔴 Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](algorithms/python/singleNumber.py)|🟢 Easy|
