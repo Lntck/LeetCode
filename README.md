@@ -62,6 +62,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](algorithms/python/populatingNextRightPointersInEachNodeII.py)|🟡 Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](algorithms/python/bestTimeToBuyAndSellStock.py)|🟢 Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](algorithms/python/binaryTreeMaximumPathSum.py)|🔴 Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](algorithms/python/validPalindrome.py)|🟢 Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](algorithms/python/longestConsecutiveSequence.py)|🟡 Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](algorithms/python/sumRootToLeafNumbers.py)|🟡 Medium|
