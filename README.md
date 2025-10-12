@@ -77,6 +77,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](algorithms/python/minStack.py)|🟡 Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](algorithms/python/twoSumIIInputArrayIsSorted.py)|🟡 Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](algorithms/python/majorityElement.py)|🟢 Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](algorithms/python/binarySearchTreeIterator.py)|🟡 Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](algorithms/python/rotateArray.py)|🟡 Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](algorithms/python/reverseBits.py)|🟢 Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](algorithms/python/NumberOf1-Bits.py)|🟢 Easy|
