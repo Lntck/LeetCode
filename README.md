@@ -85,6 +85,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](algorithms/python/isomorphicStrings.py)|🟢 Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](algorithms/python/countCompleteTreeNodes.py)|🟢 Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](algorithms/python/basicCalculator.py)|🔴 Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](algorithms/python/invertBinaryTree.py)|🟢 Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](algorithms/python/summaryRanges.py)|🟢 Easy|
