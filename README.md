@@ -54,6 +54,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](algorithms/python/reverseLinkedListII.py)|🟡 Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](algorithms/python/sameTree.py)|🟢 Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](algorithms/python/symmetricTree.py)|🟢 Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](algorithms/python/binaryTreeLevelOrderTraversal.py)|🟡 Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](algorithms/python/maximumDepthOfBinaryTree.py)|🟢 Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromPreorderAndInorderTraversal.py)|🟡 Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromInorderAndPostorderTraversal.py)|🟡 Medium|
