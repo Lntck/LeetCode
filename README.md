@@ -102,6 +102,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](algorithms/python/ransomNote.py)|🟢 Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](algorithms/python/IsSubsequence.py)|🟢 Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](algorithms/python/minimumNumberOfArrowsToBurstBalloons.py)|🟡 Medium|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 
 ## Structure
