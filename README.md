@@ -92,6 +92,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](algorithms/python/basicCalculator.py)|🔴 Hard|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](algorithms/python/invertBinaryTree.py)|🟢 Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](algorithms/python/summaryRanges.py)|🟢 Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](algorithms/python/kthSmallestElementInABst.py)|🟡 Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](algorithms/python/lowestCommonAncestorOfABinaryTree.py)|🟡 Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](algorithms/java/productOfArrayExceptSelf.java)|🟡 Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](algorithms/python/validAnagram.py)|🟢 Easy|
