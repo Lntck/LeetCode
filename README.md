@@ -52,6 +52,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](algorithms/python/partitionList.py)|🟡 Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](algorithms/cpp/mergeSortedArray.cpp)|🟢 Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](algorithms/python/reverseLinkedListII.py)|🟡 Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](algorithms/python/validateBinarySearchTree.py)|🟡 Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](algorithms/python/sameTree.py)|🟢 Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](algorithms/python/symmetricTree.py)|🟢 Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](algorithms/python/binaryTreeLevelOrderTraversal.py)|🟡 Medium|
