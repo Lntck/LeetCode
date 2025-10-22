@@ -90,6 +90,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](algorithms/python/numberOfIslands.py)|🟡 Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](algorithms/python/happyNumber.py)|🟢 Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](algorithms/python/isomorphicStrings.py)|🟢 Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](algorithms/python/courseSchedule.py)|🟡 Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](algorithms/python/countCompleteTreeNodes.py)|🟢 Easy|
