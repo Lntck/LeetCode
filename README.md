@@ -16,6 +16,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](algorithms/cpp/twoSum.cpp)|🟢 Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](algorithms/python/addTwoNumbers.py)|🟡 Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](algorithms/python/longestSubstringWithoutRepeatingCharacters.py)|🟡 Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](algorithms/python/medianOfTwoSortedArrays.py)|🔴 Hard|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](algorithms/python/zigzagConversion.py)|🟡 Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](algorithms/python/palindromeNumber.py)|🟢 Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](algorithms/python/containerWithMostWater.py)|🟡 Medium|
@@ -92,6 +93,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](algorithms/python/isomorphicStrings.py)|🟢 Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](algorithms/python/courseSchedule.py)|🟡 Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](algorithms/python/courseScheduleII.py)|🟡 Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](algorithms/python/countCompleteTreeNodes.py)|🟢 Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](algorithms/python/basicCalculator.py)|🔴 Hard|
