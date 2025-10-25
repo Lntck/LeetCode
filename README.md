@@ -114,6 +114,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](algorithms/python/minimumNumberOfArrowsToBurstBalloons.py)|🟡 Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
+|945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 
 ## Structure
 
