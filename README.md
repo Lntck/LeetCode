@@ -65,6 +65,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](algorithms/python/pathSum.py)|🟢 Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](algorithms/python/flattenBinaryTreeToLinkedList.py)|🟡 Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](algorithms/python/populatingNextRightPointersInEachNodeII.py)|🟡 Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](algorithms/python/pascalsTriangle.py)|🟢 Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](algorithms/python/bestTimeToBuyAndSellStock.py)|🟢 Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](algorithms/python/bestTimeToBuyAndSellStockII.py)|🟡 Medium|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](algorithms/python/binaryTreeMaximumPathSum.py)|🔴 Hard|
