@@ -98,6 +98,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](algorithms/python/implementTriePrefixTree.py)|🟡 Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](algorithms/python/minimumSizeSubarraySum.py)|🟡 Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](algorithms/python/courseScheduleII.py)|🟡 Medium|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Python](algorithms/python/designAddAndSearchWordsDataStructure.py)|🟡 Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](algorithms/python/countCompleteTreeNodes.py)|🟢 Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](algorithms/python/basicCalculator.py)|🔴 Hard|
