@@ -51,6 +51,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](algorithms/python/simplifyPath.py)|🟡 Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](algorithms/python/minimumWindowSubstring.py)|🔴 Hard|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](algorithms/python/combinations.py)|🟡 Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedArrayII.py)|🟡 Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedListII.py)|🟡 Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](algorithms/python/partitionList.py)|🟡 Medium|
