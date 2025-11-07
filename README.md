@@ -37,6 +37,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](algorithms/python/validSudoku.py)|🟡 Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](algorithms/python/trappingRainWater.py)|🔴 Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](algorithms/python/jumpGameII.py)|🟡 Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](algorithms/python/permutations.py)|🟡 Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](algorithms/python/rotateImage.py)|🟡 Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](algorithms/python/groupAnagrams.py)|🟡 Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](algorithms/python/spiralMatrix.py)|🟡 Medium|
