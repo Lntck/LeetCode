@@ -53,6 +53,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](algorithms/python/sqrtx.py)|🟢 Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](algorithms/python/simplifyPath.py)|🟡 Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](algorithms/python/searchA-2d-Matrix.py)|🟡 Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](algorithms/python/minimumWindowSubstring.py)|🔴 Hard|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](algorithms/python/combinations.py)|🟡 Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](algorithms/python/wordSearch.py)|🟡 Medium|
