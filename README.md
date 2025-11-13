@@ -51,6 +51,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](algorithms/python/addBinary.py)|🟢 Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](algorithms/python/textJustification.py)|🔴 Hard|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](algorithms/python/sqrtx.py)|🟢 Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](algorithms/python/climbingStairs.py)|🟢 Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](algorithms/python/simplifyPath.py)|🟡 Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](algorithms/python/setMatrixZeroes.py)|🟡 Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](algorithms/python/searchA-2d-Matrix.py)|🟡 Medium|
