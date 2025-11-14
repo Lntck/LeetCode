@@ -71,6 +71,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](algorithms/python/maximumDepthOfBinaryTree.py)|🟢 Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromPreorderAndInorderTraversal.py)|🟡 Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromInorderAndPostorderTraversal.py)|🟡 Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](algorithms/python/convertSortedArrayToBinarySearchTree.py)|🟢 Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](algorithms/python/pathSum.py)|🟢 Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](algorithms/python/flattenBinaryTreeToLinkedList.py)|🟡 Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](algorithms/python/populatingNextRightPointersInEachNodeII.py)|🟡 Medium|
