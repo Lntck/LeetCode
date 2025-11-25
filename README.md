@@ -102,6 +102,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](algorithms/python/rotateArray.py)|🟡 Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](algorithms/python/reverseBits.py)|🟢 Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](algorithms/python/NumberOf1-Bits.py)|🟢 Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](algorithms/python/houseRobber.py)|🟡 Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](algorithms/python/binaryTreeRightSideView.py)|🟡 Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](algorithms/python/numberOfIslands.py)|🟡 Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](algorithms/python/happyNumber.py)|🟢 Easy|
