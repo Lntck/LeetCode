@@ -96,6 +96,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](algorithms/python/lruCache.py)|🟡 Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](algorithms/python/evaluateReversePolishNotation.py)|🟡 Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](algorithms/python/reverseWordsInAString.py)|🟡 Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](algorithms/python/findMinimumInRotatedSortedArray.py)|🟡 Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](algorithms/python/minStack.py)|🟡 Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](algorithms/python/findPeakElement.py)|🟡 Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](algorithms/python/twoSumIIInputArrayIsSorted.py)|🟡 Medium|
