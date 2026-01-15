@@ -95,6 +95,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](algorithms/python/wordBreak.py)|🟡 Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](algorithms/python/linkedListCycle.py)|🟢 Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](algorithms/python/lruCache.py)|🟡 Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](algorithms/python/sortList.py)|🟡 Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](algorithms/python/evaluateReversePolishNotation.py)|🟡 Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](algorithms/python/reverseWordsInAString.py)|🟡 Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](algorithms/python/findMinimumInRotatedSortedArray.py)|🟡 Medium|
