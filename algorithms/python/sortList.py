@@ -56,7 +56,8 @@ class Solution:
                 part2, current = split(next_part, size)
 
                 merged_head, merged_tail = merge(part1, part2)
-                previous.next = merged_head
-                previous = merged_tail
+                if merged_head is not None and merged_tail is not None:
+                    previous.next = merged_head
+                    previous = merged_tail
             size *= 2
         return dummy.next
