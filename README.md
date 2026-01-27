@@ -44,6 +44,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Python](algorithms/python/permutations.py)|🟡 Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](algorithms/python/rotateImage.py)|🟡 Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](algorithms/python/groupAnagrams.py)|🟡 Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](algorithms/python/nQueensII.py)|🔴 Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](algorithms/python/maximumSubarray.py)|🟡 Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](algorithms/python/spiralMatrix.py)|🟡 Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](algorithms/python/jumpGame.py)|🟡 Medium|
