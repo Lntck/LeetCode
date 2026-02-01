@@ -103,6 +103,7 @@ class LeetCodeManager:
                         difficulty=self.INT_TO_DIFFICULTY[question["difficulty"]["level"]],
                     )
                 logging.info(f"Fetched {len(questions)} questions successfully on attempt {attempt}.")
+                print(questions)
                 return questions
             except requests.Timeout:
                 logging.warning(f"Timeout on attempt {attempt}/{max_retries}. Retrying in {backoff} sec...")
