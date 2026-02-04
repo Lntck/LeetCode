@@ -145,6 +145,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 |954|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](algorithms/python/maximumSumCircularSubarray.py)|🟡 Medium|
+|969|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](algorithms/python/numberOfRecentCalls.py)|🟢 Easy|
 |1229|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Python](algorithms/python/shortestPathWithAlternatingColors.py)|🟡 Medium|
 |1586|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Python](algorithms/python/LongestSubarrayOf1sAfterDeletingOneElement.py)|🟡 Medium|
 |2886|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)|[Python](algorithms/python/faultyKeyboard.py)|🟢 Easy|
