@@ -1,14 +1,11 @@
 class Solution:
-    def summaryRanges(self, nums: List[int]) -> List[str]:
-        if not nums: return nums
-
+    def summaryRanges(self, nums: list[int]) -> list[str]:
         result = []
-        start = 0
-        for i in range(len(nums)):
-            if i == len(nums) - 1 or nums[i] != nums[i+1] - 1:
-                if start == i:
-                    result.append(str(nums[start]))
-                else:
-                    result.append(f"{nums[start]}->{nums[i]}")
-                start = i + 1
+        ptr = 0
+        while ptr < len(nums):
+            start = ptr
+            while ptr + 1 < len(nums) and nums[ptr] + 1 == nums[ptr+1]:
+                ptr += 1
+            result.append(f"{nums[start]}" if start == ptr else f"{nums[start]}->{nums[ptr]}")
+            ptr += 1
         return result
