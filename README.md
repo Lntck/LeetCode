@@ -144,6 +144,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
+|782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 |954|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](algorithms/python/maximumSumCircularSubarray.py)|🟡 Medium|
 |969|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](algorithms/python/numberOfRecentCalls.py)|🟢 Easy|
