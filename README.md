@@ -150,6 +150,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 |954|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](algorithms/python/maximumSumCircularSubarray.py)|🟡 Medium|
 |969|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](algorithms/python/numberOfRecentCalls.py)|🟢 Easy|
+|1019|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](algorithms/python/squaresOfASortedArray.py)|🟢 Easy|
 |1229|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Python](algorithms/python/shortestPathWithAlternatingColors.py)|🟡 Medium|
 |1542|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](algorithms/python/consecutiveCharacters.py)|🟢 Easy|
 |1586|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Python](algorithms/python/LongestSubarrayOf1sAfterDeletingOneElement.py)|🟡 Medium|
