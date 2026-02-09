@@ -146,6 +146,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](algorithms/python/subarraySumEqualsK.py)|🟡 Medium|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](algorithms/python/validPalindromeII.py)|🟢 Easy|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
