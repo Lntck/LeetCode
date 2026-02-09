@@ -144,6 +144,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Python](algorithms/python/minimumGeneticMutation.py)|🟡 Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](algorithms/python/minimumNumberOfArrowsToBurstBalloons.py)|🟡 Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](algorithms/python/subarraySumEqualsK.py)|🟡 Medium|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
