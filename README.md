@@ -140,6 +140,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](algorithms/python/topKFrequentElements.py)|🟡 Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](algorithms/python/intersectionOfTwoArraysII.py)|🟢 Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](algorithms/cpp/insertDeleteGetrandomO1.cpp)|🟡 Medium|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](algorithms/python/insertDeleteGetrandomO1.py)|🟡 Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](algorithms/python/ransomNote.py)|🟢 Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](algorithms/python/IsSubsequence.py)|🟢 Easy|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](algorithms/python/evaluateDivision.py)|🟡 Medium|
