@@ -137,6 +137,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](algorithms/python/wordPattern.py)|🟢 Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](algorithms/python/longestIncreasingSubsequence.py)|🟡 Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](algorithms/python/coinChange.py)|🟡 Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](algorithms/python/topKFrequentElements.py)|🟡 Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](algorithms/python/intersectionOfTwoArraysII.py)|🟢 Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](algorithms/cpp/insertDeleteGetrandomO1.cpp)|🟡 Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](algorithms/python/ransomNote.py)|🟢 Easy|
