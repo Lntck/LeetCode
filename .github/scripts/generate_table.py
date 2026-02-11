@@ -1,9 +1,8 @@
 import logging
 import re
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Dict, List, Tuple
 
 import requests
 
@@ -14,22 +13,14 @@ logging.basicConfig(
 )
 
 
-@dataclass(frozen=True, order=True)
+@dataclass(order=True)
 class ProblemInfo:
     """Represents metadata for a LeetCode problem."""
     question_id: int
     title: str
-    difficulty: str
-
-
-@dataclass(frozen=True, order=True)
-class SolutionInfo:
-    """Represents a solution to a LeetCode problem in a specific language."""
-    question_id: int
-    title: str
     slug: str
-    solution_link: str
     difficulty: str
+    solutions: dict[str, str] = field(default_factory=dict, compare=False)
 
     @property
     def problem_link(self) -> str:
@@ -59,7 +50,7 @@ class LeetCodeManager:
         3: "🔴 Hard",
     }
 
-    def __init__(self, base_folder: str = "./algorithms", LANG_DIRS: Dict[str, str] | None = None, LANG_EXTENSIONS: Tuple[str, ...] | None = None):
+    def __init__(self, base_folder: str = "./algorithms", LANG_DIRS: dict[str, str] | None = None, LANG_EXTENSIONS: tuple[str] | None = None):
         """
         Initialize LeetCodeManager, fetches all problem data from LeetCode.
 
@@ -100,10 +91,10 @@ class LeetCodeManager:
                     questions[slug] = ProblemInfo(
                         question_id=int(question["stat"]["question_id"]),
                         title=question["stat"]["question__title"],
+                        slug=slug,
                         difficulty=self.INT_TO_DIFFICULTY[question["difficulty"]["level"]],
                     )
                 logging.info(f"Fetched {len(questions)} questions successfully on attempt {attempt}.")
-                print(questions)
                 return questions
             except requests.Timeout:
                 logging.warning(f"Timeout on attempt {attempt}/{max_retries}. Retrying in {backoff} sec...")
@@ -134,7 +125,7 @@ class LeetCodeManager:
         Returns:
             str: Problem slug suitable for API lookup or links.
         """
-        filename = filename.stem
+        filename_str = filename.stem
 
         parts = re.findall(
             r'[A-Z][0-9]+|'
@@ -142,20 +133,16 @@ class LeetCodeManager:
             r'[0-9]*[A-Z]?[a-z]+|'
             r'[A-Z]+|' 
             r'[0-9]+',
-            filename
+            filename_str
         )
 
         slug = '-'.join(part.lower() for part in parts)
         return slug
 
-    def get_solutions(self) -> List[SolutionInfo]:
+    def get_solutions(self) -> None:
         """
         Scan the local solution folders and match files to fetched LeetCode problems.
-
-        Returns:
-            List[SolutionInfo]: Sorted list of SolutionInfo objects for all found solutions.
         """
-        solutions: List[SolutionInfo] = []
         for lang_folder, lang_name in self.LANG_DIRS.items():
             folder_path = Path(self.base_folder) / lang_folder
             if not folder_path.exists():
@@ -165,22 +152,13 @@ class LeetCodeManager:
             for file_path in folder_path.iterdir():
                 if file_path.suffix.lower() in self.LANG_EXTENSIONS:
                     slug = self.extract_slug(file_path)
-                    question = self.questions.get(slug)
-                    if not question:
-                        logging.warning(f"Question not found for slug: {slug}")
-                        continue
 
-                    solutions.append(
-                        SolutionInfo(
-                            question_id=question.question_id,
-                            title=question.title,
-                            slug=slug,
-                            solution_link=f"[{lang_name}]({file_path.as_posix()})",
-                            difficulty=question.difficulty,
-                            )
-                        )
-                    logging.info(f"Found: #{question.question_id} {question.title} [{question.difficulty}]")
-        return sorted(solutions)
+                    if slug in self.questions:
+                        self.questions[slug].solutions[lang_name] = file_path.as_posix()
+                        logging.info(f"Found: #{self.questions[slug].question_id} {self.questions[slug].title} [{self.questions[slug].difficulty}]")
+                    else:
+                        logging.warning(f"Question not found for slug: {slug}")
+
 
     def generate_table(self) -> str:
         """
@@ -189,13 +167,18 @@ class LeetCodeManager:
         Returns:
             str: Markdown formatted table containing all solutions.
         """
-        solutions = self.get_solutions()
-        if not solutions:
+        self.get_solutions()
+
+        solved_problems = [problem for problem in self.questions.values() if problem.solutions]
+        solved_problems.sort(key=lambda x: x.question_id)
+
+        if not solved_problems:
             logging.warning("No solutions found.")
 
         table = "| # | Title | Solution | Difficulty |\n|---|-------|----------|------------|\n"
-        for solution in solutions:
-            table += f"|{solution.question_id}|{solution.problem_link}|{solution.solution_link}|{solution.difficulty}|\n"
+        for problem in solved_problems:
+            links = ", ".join([f"[{lang}]({path})" for lang, path in problem.solutions.items()])
+            table += f"|{problem.question_id}|{problem.problem_link}|{links}|{problem.difficulty}|\n"
         return table
 
 
