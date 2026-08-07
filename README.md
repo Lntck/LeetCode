@@ -29,6 +29,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](algorithms/python/validParentheses.py)|🟢 Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](algorithms/python/mergeTwoSortedLists.py)|🟢 Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](algorithms/python/generateParentheses.py)|🟡 Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](algorithms/python/mergeKSortedLists.py)|🔴 Hard|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](algorithms/python/reverseNodesInKGroup.py)|🔴 Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](algorithms/python/removeDuplicatesFromSortedArray.py)|🟢 Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](algorithms/cpp/removeElement.cpp)|🟢 Easy|
