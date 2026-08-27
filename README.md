@@ -13,7 +13,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](algorithms/cpp/twoSum.cpp)|🟢 Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](algorithms/cpp/twoSum.cpp), [Python](algorithms/python/twoSum.py)|🟢 Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](algorithms/python/addTwoNumbers.py)|🟡 Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](algorithms/python/longestSubstringWithoutRepeatingCharacters.py)|🟡 Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](algorithms/python/medianOfTwoSortedArrays.py)|🔴 Hard|
@@ -123,6 +123,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Python](algorithms/python/designAddAndSearchWordsDataStructure.py)|🟡 Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Python](algorithms/python/wordSearchII.py)|🔴 Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](algorithms/python/KthLargestElementInAnArray.py)|🟡 Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](algorithms/python/containsDuplicate.py)|🟢 Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](algorithms/python/containsDuplicateII.py)|🟢 Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](algorithms/python/countCompleteTreeNodes.py)|🟡 Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](algorithms/python/basicCalculator.py)|🔴 Hard|
@@ -153,6 +154,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](algorithms/python/longestContinuousIncreasingSubsequence.py)|🟢 Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](algorithms/python/validPalindromeII.py)|🟢 Easy|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](algorithms/python/dailyTemperatures.py)|🟡 Medium|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
 |932|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](algorithms/python/monotonicArray.py)|🟢 Easy|
