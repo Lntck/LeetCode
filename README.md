@@ -157,6 +157,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](algorithms/python/dailyTemperatures.py)|🟡 Medium|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
+|883|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](algorithms/python/carFleet.py)|🟡 Medium|
 |932|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](algorithms/python/monotonicArray.py)|🟢 Easy|
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 |954|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](algorithms/python/maximumSumCircularSubarray.py)|🟡 Medium|
