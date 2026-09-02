@@ -65,6 +65,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](algorithms/python/wordSearch.py)|🟡 Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedArrayII.py)|🟡 Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](algorithms/python/removeDuplicatesFromSortedListII.py)|🟡 Medium|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](algorithms/python/largestRectangleInHistogram.py)|🔴 Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](algorithms/python/partitionList.py)|🟡 Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](algorithms/cpp/mergeSortedArray.cpp)|🟢 Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](algorithms/python/reverseLinkedListII.py)|🟡 Medium|
@@ -147,10 +148,12 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](algorithms/python/ransomNote.py)|🟢 Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](algorithms/python/IsSubsequence.py)|🟢 Easy|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](algorithms/python/evaluateDivision.py)|🟡 Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](algorithms/python/longestRepeatingCharacterReplacement.py)|🟡 Medium|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Python](algorithms/python/minimumGeneticMutation.py)|🟡 Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](algorithms/python/minimumNumberOfArrowsToBurstBalloons.py)|🟡 Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](algorithms/python/subarraySumEqualsK.py)|🟡 Medium|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](algorithms/python/permutationInString.py)|🟡 Medium|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](algorithms/python/longestContinuousIncreasingSubsequence.py)|🟢 Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](algorithms/python/validPalindromeII.py)|🟢 Easy|
