@@ -98,6 +98,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](algorithms/python/copyListWithRandomPointer.py)|🟡 Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](algorithms/python/wordBreak.py)|🟡 Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](algorithms/python/linkedListCycle.py)|🟢 Easy|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](algorithms/python/ReorderList.py)|🟡 Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](algorithms/python/lruCache.py)|🟡 Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](algorithms/python/sortList.py)|🟡 Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](algorithms/python/evaluateReversePolishNotation.py)|🟡 Medium|
@@ -160,7 +161,9 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](algorithms/python/dailyTemperatures.py)|🟡 Medium|
 |772|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Python](algorithms/python/constructQuadTree.py)|🟡 Medium|
 |782|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](algorithms/python/jewelsAndStones.py)|🟢 Easy|
+|792|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](algorithms/python/binarySearch.py)|🟢 Easy|
 |883|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Python](algorithms/python/carFleet.py)|🟡 Medium|
+|907|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](algorithms/python/kokoEatingBananas.py)|🟡 Medium|
 |932|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](algorithms/python/monotonicArray.py)|🟢 Easy|
 |945|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Python](algorithms/python/snakesAndLadders.py)|🟡 Medium|
 |954|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](algorithms/python/maximumSumCircularSubarray.py)|🟡 Medium|
