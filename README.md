@@ -78,6 +78,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromPreorderAndInorderTraversal.py)|🟡 Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](algorithms/python/constructBinaryTreeFromInorderAndPostorderTraversal.py)|🟡 Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](algorithms/python/convertSortedArrayToBinarySearchTree.py)|🟢 Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](algorithms/python/BalancedBinaryTree.py)|🟢 Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](algorithms/python/pathSum.py)|🟢 Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](algorithms/python/flattenBinaryTreeToLinkedList.py)|🟡 Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](algorithms/python/populatingNextRightPointersInEachNodeII.py)|🟡 Medium|
@@ -157,6 +158,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](algorithms/python/DiameterOfBinaryTree.py)|🟢 Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](algorithms/python/subarraySumEqualsK.py)|🟡 Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](algorithms/python/permutationInString.py)|🟡 Medium|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](algorithms/python/SubtreeOfAnotherTree.py)|🟢 Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](algorithms/python/longestContinuousIncreasingSubsequence.py)|🟢 Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](algorithms/python/validPalindromeII.py)|🟢 Easy|
@@ -173,6 +175,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |1019|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](algorithms/python/squaresOfASortedArray.py)|🟢 Easy|
 |1229|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Python](algorithms/python/shortestPathWithAlternatingColors.py)|🟡 Medium|
 |1542|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](algorithms/python/consecutiveCharacters.py)|🟢 Easy|
+|1544|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](algorithms/python/CountGoodNodesInBinaryTree.py)|🟡 Medium|
 |1586|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Python](algorithms/python/LongestSubarrayOf1sAfterDeletingOneElement.py)|🟡 Medium|
 |2886|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)|[Python](algorithms/python/faultyKeyboard.py)|🟢 Easy|
 
