@@ -139,6 +139,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](algorithms/python/missingNumber.py)|🟢 Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](algorithms/cpp/h-Index.cpp)|🟡 Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](algorithms/python/moveZeroes.py)|🟢 Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](algorithms/python/FindTheDuplicateNumber.py)|🟡 Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Python](algorithms/python/gameOfLife.py)|🟡 Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](algorithms/python/wordPattern.py)|🟢 Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Python](algorithms/python/longestIncreasingSubsequence.py)|🟡 Medium|
@@ -153,6 +154,7 @@ This way, the table always reflects the latest accepted solutions — no manual 
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Python](algorithms/python/minimumGeneticMutation.py)|🟡 Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](algorithms/python/minimumNumberOfArrowsToBurstBalloons.py)|🟡 Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](algorithms/python/minimumAbsoluteDifferenceInBst.py)|🟢 Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](algorithms/python/DiameterOfBinaryTree.py)|🟢 Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](algorithms/python/subarraySumEqualsK.py)|🟡 Medium|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Python](algorithms/python/permutationInString.py)|🟡 Medium|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](algorithms/python/averageOfLevelsInBinaryTree.py)|🟢 Easy|
